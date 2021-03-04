@@ -9,6 +9,7 @@ Club+1+1,a wooden club+2,Main Hand,1H,STR,AC,0,1d6+2,0,0,3,1
 Dagger,a small dagger,Main Hand,1H,STR,AC,0,1d4,0,0,1,1
 Dagger+1,a small dagger +1,Main Hand,1H,STR,AC,0,1d4+1,0,0,1,1
 Dagger+1+1,a small dagger +2,Main Hand,1H,STR,AC,0,1d4+2,0,0,1,1
+Dagger+1+1+1,a small dagger +3,Main Hand,1H,STR,AC,0,1d4+3,0,0,1,1
 Default Weapon,Default Weapon,Main Hand,1H,STR,AC,0,1d1,0,0,1,1
 Fireball Scroll,a magic fireball scroll,Item Slot,,INT,DEX,0,2d6+2,0,0,0,3
 Gold Crown,a golden crown,Head,,,,0,0,2,2,0,0

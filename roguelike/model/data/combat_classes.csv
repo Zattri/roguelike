@@ -42,3 +42,4 @@ Paladin,TRUE,15,,6,16,10,13,11,12,14,1,0,5,Hands,1d2,1,"Sword,Shield",Food
 Ranger,TRUE,12,,5,11,16,14,12,13,10,1,0,10,Hands,1d2,1,"Axe,Leather Armour","Key,Bronze Ring,Red Mushroom,Healing Herbs"
 Rogue,TRUE,12,,5,10,16,14,11,13,12,1,0,7,Hands,1d2,1,"Dagger,Buckler","Key,Food,Food"
 Wizard,TRUE,10,,4,10,14,11,16,13,12,0,0,8,Hands,1d2,1,"Quarterstaff,Robe of Learning","Fireball Scroll,Lightning Scroll,Healing Herbs,Food"
+Knight,TRUE,100,,10,20,20,20,20,20,20,10,0,8,Chainsaws,1d10,1,"Dagger,Scimitar,Plate Armour,Shield","Key,Key,Food,Book,Tome,Weapon Upgrade,Weapon Upgrade,Weapon Upgrade,Weapon Upgrade"

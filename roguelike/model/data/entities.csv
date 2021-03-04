@@ -5,8 +5,9 @@ Club,a wooden club,|,Combat,light_sepia,,4,TRUE,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE
 Club+1,a wooden club +1,|,Combat,lighter_sepia,,4,TRUE,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,150
 Club+1+1,a wooden club +2,|,Combat,gold,,4,TRUE,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,200
 Dagger,a small dagger,(,Combat,white,,4,TRUE,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,3
-Dagger+1,a small dagger +1,(,Combat,lightest_cyan,,4,TRUE,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,500
-Dagger+1+1,a small dagger +2,(,Combat,gold,,4,TRUE,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,2000
+Dagger+1,a small dagger +1,(,Combat,brass,,4,TRUE,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,500
+Dagger+1+1,a small dagger +2,(,Combat,lightest_cyan,,4,TRUE,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,2000
+Dagger+1+1+1,a small dagger +3,(,Combat,gold,,4,TRUE,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,3500
 Fireball Scroll,a magic fireball scroll,~,Combat,red,orange,4,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,10
 Greataxe,a great axe,!,Combat,gold,,4,TRUE,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,3000
 Hands,bare hands,@,Combat,pink,,4,TRUE,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,0
@@ -20,7 +21,7 @@ Spear,a wooden spear,I,Combat,white,,4,TRUE,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,FAL
 Sword,a short sword,\,Combat,white,,4,TRUE,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,20
 Sword+1,a sword +1,\,Combat,lightest_cyan,,4,TRUE,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,150
 Sword+1+1,a sword +2,\,Combat,gold,,4,TRUE,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,200
-War Hammer,a mighty War Hammer,T,Combat,darkest_grey,,4,TRUE,TRUE,FALSE,TRUE,,TRUE,FALSE,FALSE,32
+War Hammer,a mighty War Hammer,T,Combat,darkest_grey,,4,TRUE,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,32
 Bugbear,a bugbear,b,Enemy,green,,1,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,0
 Bugbear Chief,a bugbear chief,B,Enemy,green,,1,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,0
 Carrion Crawler,a carrion crawler,~,Enemy,red,,1,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,0
